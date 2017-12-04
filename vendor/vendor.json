@@ -1,0 +1,23 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/xclpkg/clcolor",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "cf7p8wvwVulh8Q0jzL3G0QS3he0=",
+			"path": "github.com/xcltapestry/xclpkg",
+			"revision": "4bb35f81c8780aec5172e9651468d77fa9b3523d",
+			"revisionTime": "2015-02-03T09:21:46Z"
+		},
+		{
+			"checksumSHA1": "c2Fkr9bi36le6YC1pLXfm18zdd0=",
+			"path": "github.com/xcltapestry/xclpkg/clcolor",
+			"revision": "4bb35f81c8780aec5172e9651468d77fa9b3523d",
+			"revisionTime": "2015-02-03T09:21:46Z"
+		}
+	],
+	"rootPath": "github.com/standardcore/go-logging"
+}
